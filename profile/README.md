@@ -4,8 +4,6 @@
 <h2>Under inSharebyte Corp</h2>
 <h3 align="center">We are a group of Researchers from USA California and Philippines</h3>
 
-Started Coding Since 6yo. I made App Check(Android app) When i was a kid.
-
 We are currently working on **Futr Digital Omni** and
 We're looking to collaborate on your **Coding Projects**
 
