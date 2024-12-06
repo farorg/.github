@@ -1,7 +1,7 @@
 ![](https://ise.web.app/cover/1.png)
 
 <h1 align="center">FUTURE UNIVERSAL TECHNOLOGICAL RESEARCH</h1>
-<h3 align="center">We are a group from USA California and Philippines</h3>
+<h3 align="center">We are a group of Researchers from USA California and Philippines</h3>
 
 Started Coding Since 6yo. I made App Check(Android app) When i was a kid.
 
