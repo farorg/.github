@@ -1,8 +1,9 @@
 ![](https://ise.web.app/cover/1.png)
 
 <h1 align="center">FUTURE UNIVERSAL TECHNOLOGICAL RESEARCH</h1>
-<h2>Under inSharebyte Corp</h2>
-<h3 align="center">We are a group of Researchers from USA California and Philippines</h3>
+Under inSharebyte Corp
+
+We are a group of Researchers from USA California and Philippines
 
 We are currently working on **Futr Digital Omni** and
 We're looking to collaborate on your **Coding Projects**
@@ -12,7 +13,8 @@ WE CREATED
 
   <a href="https://ise.web.app" target="_blank" rel="noreferrer"> <img src="https://ise.web.app/icon/1.png" alt="ise" width="90" height="90"/>Ise</a>
 
-<h3 align="left">OUR HELP CONTRIBUTION TO TECH
+<h3 align="left">
+  Our Distribution to Tech.
 </h3>
 <p align="left">
   <a href="https://ise.web.app" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/17815717?s=200&v=4" alt="Median.co" width="40" height="40"/> </a>
