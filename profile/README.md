@@ -1,6 +1,6 @@
 ![](https://ise.web.app/cover/1.png)
 
-<h1 align="center">FUTURE UNIVERSAL TECHNOLOGICAL RESEARCH</h1>
+<h1 align="center"> Future Advancing Research </h1>
 Under inSharebyte Corp
 
 We are a group of Researchers from USA California and Philippines
