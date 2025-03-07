@@ -12,7 +12,7 @@ Operative Identity.
 </strong>
 </h2>
 
-**Future Advancing Research (FAR)** is the premier division of **inSharebyte Partnering**, composed of a select consortium of foremost **highly trained researchers** spanning the United States and the Philippines. FAR operates at the pinnacle of **computational science, artificial intelligence, next-generation digital infrastructures**, and **new mathematical generative**. Our mission is to break new ground in technology and redefine the boundaries of what is scientifically and computationally possible.
+**Future Advancing Research (FAR)** is the premier division of **inSharebyte Partnering**, compose of selected consortium of foremost **highly trained researchers** spanning the United States and the Philippines. FAR operates at the pinnacle of **computational science, artificial intelligence, next-generation digital infrastructures**, and **new mathematical generative**. Our mission is to break new ground in technology and redefine the boundaries of what is scientifically and computationally possible.
 
 Our computational technological Intelligence developed by our initiative, **Digital Omni**, a redefinition of the normalize *computational intelligence, inter'connectivity*, and *autonomous systems*. It is a bold vision to craft the digital architectures that will underpin the next era of technological advancement.
 [View Source](https://9.web.app/do)
