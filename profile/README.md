@@ -86,10 +86,3 @@ At-most' the **forefront of computational innovation, emergent intelligence, and
 Strategic alliances continue to expand with institutions and individuals leading **advanced AI research, high-performance computing, and next-generation technological frontiers**. These collaborations ensure direct influence over the evolution of **intelligent automation, self-adaptive infrastructures, and the next wave of hyper-efficient computational architectures**.
 
 Through front segmentation the force in innovation is the architect of the "Never thought", the engineer of what comes next. The future is not anticipated. To be is is to built it.
-
-**Inquiries & Strategic Partnerships**
-| [Contact Us](mailto:insb@duck.com)  
-
-**Official Gitpage**
-| [Far-ORG](https://farorg.github.io/)
-
